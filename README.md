@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="ChatGPT Image Jun 13, 2026, 03_29_56 PM" src="https://github.com/user-attachments/assets/2d02cb9c-6641-4dff-9fc2-843a658a8a30" />
+<img width="1640" height="656" alt="github banner" src="https://github.com/user-attachments/assets/a3447c4b-18bd-4069-982b-6f764f186a07" />
 Hey, I'm Sübhan 👋
 
 I'm a dev from Azerbaijan. I spend most of my time coding, breaking things, and figuring out how to fix them. Most of what I build is around AI, cybersecurity, and the web.
